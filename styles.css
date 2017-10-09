@@ -1,3 +1,8 @@
+* {
+	box-sizing: border-box;
+}
+
+
 body {
 	font-family: 'Montserrat', sans-serif;
 }
@@ -5,4 +10,15 @@ body {
 
 p {
 	font-family: 'Roboto', sans-serif;
+}
+
+background: '#008686'; height: '894px'; width: '1440px'; display: 'flex'"
+
+.topcontainer {
+
+}
+
+.midcontainer {
+	background: #FFF;
+	
 }
